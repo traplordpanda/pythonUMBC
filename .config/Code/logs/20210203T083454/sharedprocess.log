@@ -1,0 +1,34 @@
+[2021-02-03 08:34:57.890] [sharedprocess] [info] main {"machineId":"9cfa49691c133a4dfdfaa83c44bcd74d81ac167e5d42d908f9a094a0b01b6b5b","windowId":2}
+[2021-02-03 08:35:37.911] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-03 08:37:12.238] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-02-03 08:37:13.453] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-02-03 08:37:17.526] [sharedprocess] [info] Installing extension: tht13.python
+[2021-02-03 08:37:18.497] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.ms-python.python-2021.1.502429796: ms-python.python
+[2021-02-03 08:37:18.497] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/ms-python.python-2021.1.502429796
+[2021-02-03 08:37:18.503] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-02-03 08:37:18.561] [sharedprocess] [info] Downloaded extension: tht13.python undefined
+[2021-02-03 08:37:18.804] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-02-03 08:37:18.921] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.tht13.python-0.2.3: tht13.python
+[2021-02-03 08:37:18.921] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/tht13.python-0.2.3
+[2021-02-03 08:37:18.923] [sharedprocess] [info] Installation completed. tht13.python
+[2021-02-03 08:37:19.023] [sharedprocess] [info] Extensions installed successfully: tht13.python
+[2021-02-03 08:37:20.557] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-02-03 08:37:22.382] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.ms-toolsai.jupyter-2020.12.414227025: ms-toolsai.jupyter
+[2021-02-03 08:37:22.382] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2021-02-03 08:37:22.389] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-02-03 08:37:22.448] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-02-03 08:37:22.451] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-02-03 08:40:26.755] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2021-02-03 08:40:27.006] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent undefined
+[2021-02-03 08:40:27.268] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.kevinrose.vsc-python-indent-1.12.0: kevinrose.vsc-python-indent
+[2021-02-03 08:40:27.268] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/kevinrose.vsc-python-indent-1.12.0
+[2021-02-03 08:40:27.269] [sharedprocess] [info] Installation completed. kevinrose.vsc-python-indent
+[2021-02-03 08:40:27.275] [sharedprocess] [info] Extensions installed successfully: kevinrose.vsc-python-indent
+[2021-02-03 08:49:15.879] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-02-03 08:49:16.164] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-02-03 08:49:16.349] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.vscodevim.vim-1.18.8: vscodevim.vim
+[2021-02-03 08:49:16.350] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/vscodevim.vim-1.18.8
+[2021-02-03 08:49:16.354] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-02-03 08:49:16.364] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-02-03 08:49:56.188] [sharedprocess] [info] Uninstalling extension: vscodevim.vim
+[2021-02-03 08:49:56.206] [sharedprocess] [info] Successfully uninstalled extension: vscodevim.vim

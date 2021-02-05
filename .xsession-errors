@@ -1,0 +1,78 @@
+Xsession: X session started for kyleAubuchon at Mon Feb  1 08:00:01 EST 2021
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:kyleaubuchon being added to access control list
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: systemd --user not found, ignoring --systemd argument
+dbus-update-activation-environment: setting USER=kyleAubuchon
+dbus-update-activation-environment: setting HOME=/home/kyleaubuchon
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ACkiHlrBLd,guid=d9138e9ff002837181efdb056017fb51
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=kyleAubuchon
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=C.UTF-8
+dbus-update-activation-environment: setting UID=6077
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/6077/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kyleaubuchon
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+GNOME_KEYRING_CONTROL=/home/kyleaubuchon/.cache/keyring-8MLWX0
+SSH_AUTH_SOCK=/home/kyleaubuchon/.cache/keyring-8MLWX0/ssh
+mate-session[1766]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+caja-dropbox is not installed, doing nothing.
+mate-session[1766]: WARNING: Could not launch application 'indicator-application.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service” (No such file or directory)
+mate-session[1766]: WARNING: Could not launch application 'indicator-session.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service” (No such file or directory)
+mate-session[1766]: WARNING: Could not launch application 'indicator-datetime.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service” (No such file or directory)
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+GNOME_KEYRING_CONTROL=/home/kyleaubuchon/.cache/keyring-8MLWX0
+SSH_AUTH_SOCK=/home/kyleaubuchon/.cache/keyring-8MLWX0/ssh
+mate-session[1766]: WARNING: Could not launch application 'indicator-messages.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service” (No such file or directory)
+GNOME_KEYRING_CONTROL=/home/kyleaubuchon/.cache/keyring-8MLWX0
+SSH_AUTH_SOCK=/home/kyleaubuchon/.cache/keyring-8MLWX0/ssh
+mate-session[1766]: WARNING: Could not launch application 'indicator-power.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service” (No such file or directory)
+GNOME_KEYRING_CONTROL=/home/kyleaubuchon/.cache/keyring-8MLWX0
+SSH_AUTH_SOCK=/home/kyleaubuchon/.cache/keyring-8MLWX0/ssh
+mate-session[1766]: WARNING: Could not launch application 'indicator-sound.desktop': Unable to start application: Failed to execute child process “/usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service” (No such file or directory)
+
+(caja:1958): Gtk-WARNING **: 08:00:02.977: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+(polkit-mate-authentication-agent-1:2051): polkit-mate-1-WARNING **: 08:00:02.985: Unable to determine the session we are in: No session for pid 2051
+
+(nm-applet:2066): Gdk-CRITICAL **: 08:00:04.000: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[4387:4387:0201/084802.491771:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+Window manager warning: last_user_time (1533459223) is greater than comparison timestamp (128915101).  This most likely represents a buggy client sending inaccurate timestamps in messages such as _NET_ACTIVE_WINDOW.  Trying to work around...
+Window manager warning: 0x1400003 (Top Panel) appears to be one of the offending windows with a timestamp of 1533459223.  Working around...
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+
+** (mate-terminal:2621): CRITICAL **: 10:03:02.456: terminal_window_remove_screen: assertion 'gtk_widget_get_toplevel (GTK_WIDGET (screen)) == GTK_WIDGET (window)' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+Window manager warning: Log level 16: Visible region is null
+
+(atril:5593): GLib-CRITICAL **: 14:51:18.120: Source ID 39742 was not found when attempting to remove it
+
+(atril:5593): GLib-CRITICAL **: 14:51:18.120: Source ID 39760 was not found when attempting to remove it
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+mate-session[1766]: CRITICAL: gsm_systemd_set_session_idle: assertion 'session_path != NULL' failed
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null
+Window manager warning: Log level 16: Visible region is null

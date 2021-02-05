@@ -1,0 +1,9 @@
+[2021-02-03 11:05:33.773] [sharedprocess] [info] main {"machineId":"9cfa49691c133a4dfdfaa83c44bcd74d81ac167e5d42d908f9a094a0b01b6b5b","windowId":2}
+[2021-02-03 11:05:33.986] [sharedprocess] [info] Deleted from disk vscodevim.vim /home/kyleaubuchon/.vscode/extensions/vscodevim.vim-1.18.8
+[2021-02-03 11:06:13.794] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-05 09:36:40.446] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2021-02-05 09:36:40.695] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github undefined
+[2021-02-05 09:36:40.903] [sharedprocess] [info] Extracted extension to /home/kyleaubuchon/.vscode/extensions/.github.vscode-pull-request-github-0.22.0: github.vscode-pull-request-github
+[2021-02-05 09:36:40.903] [sharedprocess] [info] Renamed to /home/kyleaubuchon/.vscode/extensions/github.vscode-pull-request-github-0.22.0
+[2021-02-05 09:36:40.905] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2021-02-05 09:36:40.913] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github

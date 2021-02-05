@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movies>
+  <movie id="tnbc01">
+    <title>The Nightmare Before Christmas</title>
+    <rating>PG</rating>
+    <freshness>95</freshness>
+    <liked_it>0.91</liked_it>
+    <cast>
+      <character>
+        <name>Jack Skellington</name>
+        <actor>Chris Sarandon</actor>
+      </character>
+      <character>
+        <name>Sally</name>
+        <actor>Catherine OHara</actor>
+      </character>
+      <character>
+        <name>Evil Scientist</name>
+        <actor>William Hickey</actor>
+      </character>
+      <character>
+        <name>Oogie Boogie</name>
+        <actor>Ken Page</actor>
+      </character>
+    </cast>
+  </movie>
+  <movie id="tps01">
+    <title>The Philadelphia Story</title>
+    <rating/>
+    <freshness>100</freshness>
+    <liked_it>0.93</liked_it>
+    <cast>
+      <character>
+        <name>C. K. Dexter Haven</name>
+        <actor>Carey Grant</actor>
+      </character>
+      <character>
+        <name>Tracy Lord</name>
+        <actor>Katharine Hepburn</actor>
+      </character>
+      <character>
+        <name>Macaulay Connor</name>
+        <actor>James Stewart</actor>
+      </character>
+    </cast>
+  </movie>
+  <movie id="tlm01">
+    <title>The Lego Movie</title>
+    <rating>PG</rating>
+    <freshness>95</freshness>
+    <liked_it>0.87</liked_it>
+  </movie>
+</movies>

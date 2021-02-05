@@ -1,0 +1,39 @@
+{
+  "argv": [
+    "/bin/python3",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.8.5 64-bit",
+  "language": "python",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.5-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.5-final"
+      },
+      "sysVersion": "3.8.5 (default, Jul 28 2020, 12:59:40) \n[GCC 9.3.0]",
+      "sysPrefix": "/usr",
+      "fileHash": "8f53bca92d422d4cf31d05bc62b67cb0225b5d66468b428a327e6fdffeb66f03952f6aa4c5ebcf544421e64f7ae6380a052c118782d669c2c0a26b1aea01b2bf",
+      "envType": "Unknown",
+      "displayName": "Python 3.8.5 64-bit"
+    }
+  }
+}

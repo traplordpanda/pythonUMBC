@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+    <title>Guest Book</title>
+    <style>
+        .txt { width:20em; }
+    </style>
+</head>
+<body>
+    <h3>Welcome to my Guestbook</h3>
+    <p>Please fill in the following form</p>
+    <form method="get" action="/cgi-bin/guestbook.py">
+        <div>First Name:</div>
+        <div><input class="txt" type="text" name="first_name" /></div>
+        <div>Last Name:</div>
+        <div><input class="txt" type="text" name="last_name" /></div>
+        <div>Comments:</div>
+        <textarea class="txt" name="comments"></textarea>
+        <div><input type="submit" /> <input type="reset"/></div>
+    </form>
+</body>
+</html>

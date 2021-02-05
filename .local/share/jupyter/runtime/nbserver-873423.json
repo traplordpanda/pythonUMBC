@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/kyleaubuchon/python/pythonlabs/mywork",
+  "password": false,
+  "pid": 873423,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "bca706ddcf8ea3e5eb475b8e80e403bf42b0d87561c4ddd8",
+  "url": "http://localhost:8888/"
+}

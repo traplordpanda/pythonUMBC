@@ -1,0 +1,5 @@
+[2021-02-03 14:23:28.027] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kyleaubuchon/python/pythonlabs/.vscode'
+[2021-02-05 09:43:43.550] [renderer1] [error] Failed to execute git
+[2021-02-05 09:44:02.449] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kyleaubuchon/python/.vscode'
+[2021-02-05 09:46:09.164] [renderer1] [error] Failed to execute git
+[2021-02-05 09:52:04.502] [renderer1] [error] Failed to execute git

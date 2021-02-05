@@ -1,0 +1,133 @@
+Error 2021-02-03 08:41:27: Exception while attempting zmq : [Error: /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+	at process.func [as dlopen] (electron/js2c/asar.js:140:31)
+	at Object.Module._extensions..node (internal/modules/cjs/loader.js:1081:18)
+	at Object.func [as .node] (electron/js2c/asar.js:140:31)
+	at Module.load (internal/modules/cjs/loader.js:862:32)
+	at Module._load (internal/modules/cjs/loader.js:774:14)
+	at Function.Module._load (electron/js2c/asar.js:769:28)
+	at Function.t._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1092:657)
+	at Function.i._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1061:334)
+	at Function.n._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1057:567)
+	at Module.require (internal/modules/cjs/loader.js:899:19)
+	at r (/snap/code/52/usr/share/code/resources/app/out/vs/loader.js:16:346)
+	at load (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/node_modules/node-gyp-build/index.js:21:10)
+	at Object.<anonymous> (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/node_modules/zeromq/lib/native.js:6:43)
+	at Module.o._compile (/snap/code/52/usr/share/code/resources/app/out/vs/loader.js:16:571)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1051:10)
+	at Module.load (internal/modules/cjs/loader.js:862:32)
+	at Module._load (internal/modules/cjs/loader.js:774:14)
+	at Function.Module._load (electron/js2c/asar.js:769:28)
+	at Function.t._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1092:657)
+	at Function.i._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1061:334)
+	at Function.n._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1057:567)
+	at Module.require (internal/modules/cjs/loader.js:899:19)
+	at r (/snap/code/52/usr/share/code/resources/app/out/vs/loader.js:16:346)
+	at Object.<anonymous> (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/node_modules/zeromq/lib/index.js:3:16)
+	at Module.o._compile (/snap/code/52/usr/share/code/resources/app/out/vs/loader.js:16:571)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1051:10)
+	at Module.load (internal/modules/cjs/loader.js:862:32)
+	at Module._load (internal/modules/cjs/loader.js:774:14)
+	at Function.Module._load (electron/js2c/asar.js:769:28)
+	at Function.t._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1092:657)
+	at Function.i._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1061:334)
+	at Function.n._load (/snap/code/52/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1057:567)
+	at Module.require (internal/modules/cjs/loader.js:899:19)
+	at r (/snap/code/52/usr/share/code/resources/app/out/vs/loader.js:16:346)
+	at Object.<anonymous> (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:274679)
+	at n (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:1:186)
+	at /home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:803883
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async u.zmqSupportedImpl (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:803850)]
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Error 2021-02-03 08:53:53: Exception attempting to start notebook:  [i [Error]: Jupyter cannot be started. Error attempting to locate jupyter: Data Science libraries jupyter and notebook are not installed in interpreter Python 3.8.5 64-bit.
+	at w.startServer (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:379970)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async w.createServer (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:379268)
+	at async connect (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:504021)
+	at async b.ensureConnectionAndNotebookImpl (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:590192)
+	at async b.ensureConnectionAndNotebook (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:588656)
+	at async /home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:622919
+	at async b.show (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:623480)] {
+  action: 'https://aka.ms/pyaiinstall',
+  actionTitle: 'Get more help'
+}
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+Error 2021-02-03 09:00:55: DataScience Error [i [Error]: Jupyter cannot be started. Error attempting to locate jupyter: Data Science libraries jupyter and notebook are not installed in interpreter Python 3.8.5 64-bit.
+	at w.startServer (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:379970)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async w.createServer (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:379268)
+	at async connect (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:504021)
+	at async b.ensureConnectionAndNotebookImpl (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:590192)
+	at async b.ensureConnectionAndNotebook (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:588656)
+	at async /home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:622919
+	at async b.show (/home/kyleaubuchon/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:32:623480)] {
+  action: 'https://aka.ms/pyaiinstall',
+  actionTitle: 'Get more help'
+}
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Starting Jupyter from /bin/python3 with command line --no-browser --notebook-dir="/home/kyleaubuchon/python/pythonlabs/mywork" --config=/tmp/07240147-e16f-46f0-abdf-fcd0ef34c809/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+> /bin/python3 (daemon) -m jupyter notebook --no-browser --notebook-dir="/home/kyleaubuchon/python/pythonlabs/mywork" --config=/tmp/07240147-e16f-46f0-abdf-fcd0ef34c809/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+> /bin/python3 (daemon) -m jupyter kernelspec list --json
+> /bin/python3 (daemon) -m jupyter kernelspec list --json
+[I 09:00:56.119 NotebookApp] Writing notebook server cookie secret to /home/kyleaubuchon/.local/share/jupyter/runtime/notebook_cookie_secret
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+[I 09:00:56.417 NotebookApp] Serving notebooks from local directory: /home/kyleaubuchon/python/pythonlabs/mywork
+[I 09:00:56.418 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 09:00:56.418 NotebookApp] http://localhost:8888/?token=bca706ddcf8ea3e5eb475b8e80e403bf42b0d87561c4ddd8
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+[I 09:00:56.418 NotebookApp]  or http://127.0.0.1:8888/?token=bca706ddcf8ea3e5eb475b8e80e403bf42b0d87561c4ddd8
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+[I 09:00:56.418 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:00:56.423 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/kyleaubuchon/.local/share/jupyter/runtime/nbserver-873423-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bca706ddcf8ea3e5eb475b8e80e403bf42b0d87561c4ddd8
+     or http://127.0.0.1:8888/?token=bca706ddcf8ea3e5eb475b8e80e403bf42b0d87561c4ddd8
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getServerInfo.py
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py ipykernel install --user --name python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a --display-name "Python 3.8.5 64-bit"
+> /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/pyvsc-run-isolated.py ipykernel install --user --name python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a --display-name "Python 3.8.5 64-bit"
+> /bin/python3 (daemon) -m jupyter kernelspec list --json
+> /bin/python3 (daemon) ~/.vscode/extensions/ms-toolsai.jupyter-2020.12.414227025/pythonFiles/vscode_datascience_helpers/getJupyterKernels.py
+[I 09:00:57.498 NotebookApp] Creating new notebook in /
+[I 09:00:57.779 NotebookApp] Writing notebook-signing key to /home/kyleaubuchon/.local/share/jupyter/notebook_secret
+[I 09:00:57.855 NotebookApp] Kernel started: bed0bf07-d28e-4b36-be7e-c632478f571c, name: python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a
+[W 09:00:57.874 NotebookApp] delete /t-ba02b1ae-7e35-49a2-88f5-dc97ecaba065.ipynb
+[I 09:00:58.677 NotebookApp] Creating new notebook in /chapter5
+[I 09:00:58.738 NotebookApp] Kernel started: aa29e6f3-d6af-4ed1-9765-a57d4bb38b92, name: python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a
+[W 09:00:58.757 NotebookApp] delete /chapter5/t-38bede15-37f5-4db4-b832-7b30950925f9.ipynb
+[I 09:00:59.539 NotebookApp] Creating new notebook in /chapter5
+[I 09:00:59.607 NotebookApp] Kernel started: 7e645702-f93f-49e6-a8e0-c5897a335ef3, name: python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a
+[W 09:00:59.620 NotebookApp] delete /chapter5/t-42a24299-3145-4bc9-a9f3-4131655c0213.ipynb
+[I 09:24:02.616 NotebookApp] Creating new notebook in /chapter5
+[I 09:24:02.683 NotebookApp] Kernel started: 21e62e0f-1808-441d-8a40-78d9e43bda93, name: python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a
+[W 09:24:02.697 NotebookApp] delete /chapter5/t-c68be8b7-f7dc-4f6c-b63c-aa0c110e57be.ipynb
+[I 09:24:03.400 NotebookApp] Creating new notebook in /chapter5
+[I 09:24:03.459 NotebookApp] Kernel started: d707b405-9405-481e-95c4-4377fc2d0919, name: python38564bit9a7b0cec8d3e42d28de95a93faa9ee4a
+[W 09:24:03.469 NotebookApp] delete /chapter5/t-e1cf3d2f-c2be-472e-abe1-16d0a1e06da3.ipynb

@@ -1,0 +1,2 @@
+[2021-02-03 08:41:18.417] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kyleaubuchon/python/pythonlabs/mywork/.vscode'
+[2021-02-03 08:49:17.989] [renderer1] [error] ENOENT: no such file or directory, open '/home/kyleaubuchon/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/kyleaubuchon/.config/Code/User/globalStorage/vscodevim.vim/.registers'

@@ -1,0 +1,58 @@
+[20210201-08:00:01] [CORE ] main: app started pid 1644(0x0000066c)
+[20210201-08:00:01] [INFO ] main: DISPLAY env var set to :10.0
+[20210201-08:00:01] [INFO ] main: using DISPLAY 10
+[20210201-08:00:01] [INFO ] channel_thread_loop: thread start
+[20210201-08:00:01] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-09:01:05] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-09:01:05] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-09:16:30] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-09:16:31] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-09:16:46] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-09:16:47] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-09:16:50] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-09:16:53] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-09:17:06] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-09:17:14] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-11:35:49] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-11:39:57] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-15:07:18] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-15:39:14] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-16:01:27] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210201-16:01:29] [INFO ] Socket 12: AF_UNIX connection received
+[20210201-16:07:18] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210202-09:52:02] [INFO ] Socket 12: AF_UNIX connection received
+[20210202-10:26:09] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-10:34:02] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-10:52:37] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-10:58:27] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-10:58:33] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:07:53] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:16:13] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:21:39] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:31:30] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:43:03] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-11:51:19] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210202-14:36:11] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210202-14:37:22] [INFO ] Socket 12: AF_UNIX connection received
+[20210202-14:49:20] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210202-14:49:22] [INFO ] Socket 12: AF_UNIX connection received
+[20210202-16:23:35] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-07:50:03] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-08:21:50] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210203-08:22:20] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210203-08:22:40] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210203-08:23:00] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x0000020f
+[20210203-11:00:55] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-11:04:47] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-14:09:35] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-14:09:37] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-14:09:41] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-14:09:44] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-14:09:50] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-14:09:53] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-14:10:04] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-14:10:05] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-14:10:13] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210203-14:10:17] [INFO ] Socket 12: AF_UNIX connection received
+[20210203-17:18:58] [INFO ] channel_thread_loop: trans_check_wait_objs error resetting
+[20210204-08:09:16] [INFO ] Socket 12: AF_UNIX connection received

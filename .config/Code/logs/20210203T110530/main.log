@@ -1,0 +1,66 @@
+[2021-02-03 11:05:30.242] [main] [info] update#setState idle
+[2021-02-03 11:06:00.245] [main] [info] update#setState checking for updates
+[2021-02-03 11:06:00.247] [main] [info] update#setState idle
+[2021-02-03 12:06:00.345] [main] [info] update#setState checking for updates
+[2021-02-03 12:06:00.347] [main] [info] update#setState idle
+[2021-02-03 13:06:00.445] [main] [info] update#setState checking for updates
+[2021-02-03 13:06:00.447] [main] [info] update#setState idle
+[2021-02-03 14:06:00.545] [main] [info] update#setState checking for updates
+[2021-02-03 14:06:00.547] [main] [info] update#setState idle
+[2021-02-03 15:06:00.645] [main] [info] update#setState checking for updates
+[2021-02-03 15:06:00.648] [main] [info] update#setState idle
+[2021-02-03 16:06:00.747] [main] [info] update#setState checking for updates
+[2021-02-03 16:06:00.749] [main] [info] update#setState idle
+[2021-02-03 17:06:00.848] [main] [info] update#setState checking for updates
+[2021-02-03 17:06:00.850] [main] [info] update#setState idle
+[2021-02-03 18:06:00.949] [main] [info] update#setState checking for updates
+[2021-02-03 18:06:00.951] [main] [info] update#setState idle
+[2021-02-03 19:06:01.048] [main] [info] update#setState checking for updates
+[2021-02-03 19:06:01.050] [main] [info] update#setState idle
+[2021-02-03 20:06:01.149] [main] [info] update#setState checking for updates
+[2021-02-03 20:06:01.151] [main] [info] update#setState idle
+[2021-02-03 21:06:01.249] [main] [info] update#setState checking for updates
+[2021-02-03 21:06:01.250] [main] [info] update#setState idle
+[2021-02-03 22:06:01.349] [main] [info] update#setState checking for updates
+[2021-02-03 22:06:01.350] [main] [info] update#setState idle
+[2021-02-03 23:06:01.449] [main] [info] update#setState checking for updates
+[2021-02-03 23:06:01.451] [main] [info] update#setState idle
+[2021-02-04 00:06:01.549] [main] [info] update#setState checking for updates
+[2021-02-04 00:06:01.551] [main] [info] update#setState idle
+[2021-02-04 01:06:01.650] [main] [info] update#setState checking for updates
+[2021-02-04 01:06:01.653] [main] [info] update#setState idle
+[2021-02-04 02:06:01.750] [main] [info] update#setState checking for updates
+[2021-02-04 02:06:01.752] [main] [info] update#setState idle
+[2021-02-04 03:06:01.838] [main] [info] update#setState checking for updates
+[2021-02-04 03:06:01.841] [main] [info] update#setState idle
+[2021-02-04 04:06:01.939] [main] [info] update#setState checking for updates
+[2021-02-04 04:06:01.941] [main] [info] update#setState idle
+[2021-02-04 05:06:02.038] [main] [info] update#setState checking for updates
+[2021-02-04 05:06:02.040] [main] [info] update#setState idle
+[2021-02-04 06:06:02.138] [main] [info] update#setState checking for updates
+[2021-02-04 06:06:02.140] [main] [info] update#setState idle
+[2021-02-04 07:06:02.237] [main] [info] update#setState checking for updates
+[2021-02-04 07:06:02.239] [main] [info] update#setState idle
+[2021-02-04 08:06:02.336] [main] [info] update#setState checking for updates
+[2021-02-04 08:06:02.338] [main] [info] update#setState idle
+[2021-02-04 09:06:02.349] [main] [info] update#setState checking for updates
+[2021-02-04 09:06:02.350] [main] [info] update#setState idle
+[2021-02-04 10:06:02.449] [main] [info] update#setState checking for updates
+[2021-02-04 10:06:02.455] [main] [info] update#setState idle
+[2021-02-04 11:06:02.549] [main] [info] update#setState checking for updates
+[2021-02-04 11:06:02.551] [main] [info] update#setState idle
+[2021-02-04 12:06:02.649] [main] [info] update#setState checking for updates
+[2021-02-04 12:06:02.651] [main] [info] update#setState idle
+[2021-02-04 13:06:02.749] [main] [info] update#setState checking for updates
+[2021-02-04 13:06:02.752] [main] [info] update#setState idle
+[2021-02-04 14:06:02.848] [main] [info] update#setState checking for updates
+[2021-02-04 14:06:02.850] [main] [info] update#setState idle
+[2021-02-04 15:06:02.939] [main] [info] update#setState checking for updates
+[2021-02-04 15:06:02.942] [main] [info] update#setState idle
+[2021-02-04 16:06:02.999] [main] [info] update#setState checking for updates
+[2021-02-04 16:06:03.002] [main] [info] update#setState idle
+[2021-02-04 16:10:21.187] [main] [info] update#setState checking for updates
+[2021-02-04 16:10:21.194] [main] [error] Error: ENOENT: no such file or directory, lstat '/snap/code/current'
+[2021-02-04 16:10:21.194] [main] [info] update#setState idle
+[2021-02-04 16:10:27.133] [main] [info] update#setState checking for updates
+[2021-02-04 16:10:27.135] [main] [info] update#setState ready
